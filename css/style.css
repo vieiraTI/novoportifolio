@@ -259,16 +259,16 @@ header.shadow{
     width: 84%;
 }
 .js-bar{
-    width: 74%;
-}
-.react-bar{
-    width: 80%;
-}
-.node-bar{
     width: 65%;
 }
-.git-bar{
+.react-bar{
     width: 90%;
+}
+.node-bar{
+    width: 45%;
+}
+.git-bar{
+    width: 70%;
 }
 
 .services-content {
